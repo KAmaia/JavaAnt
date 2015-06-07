@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameWorldEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/Java/WorldGen/GameWorldEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

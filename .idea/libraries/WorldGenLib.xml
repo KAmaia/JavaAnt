@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WorldGenLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/Java/WorldGen/WorldGenLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
